@@ -1,4 +1,4 @@
-# Tourist Location
+# Recipe Page
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/amanda-santos/recipe-page?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/amanda-santos/recipe-page?style=for-the-badge)
